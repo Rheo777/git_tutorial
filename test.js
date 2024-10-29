@@ -1,2 +1,2 @@
 console.log('testing');
-console.log('its a fun thing we were doing');
+console.log('its not a serious thing we were doing');
